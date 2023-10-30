@@ -25,3 +25,6 @@ We welcome contributions from the open-source community. If you'd like to contri
 4. Push to your fork: `git push origin feature/your-feature-name`.
 5. Create a pull request on the main repository.
 
+Happy contributing!
+
+
